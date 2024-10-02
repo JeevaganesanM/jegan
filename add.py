@@ -1,8 +1,8 @@
 a=10
 b=20
-e=56
 f=46
-d=e+f
+h=28
+t=h+f
 c=a+b
 print(c)
-print(d)
+print(t)
